@@ -1,13 +1,6 @@
 'use strict';
 
-/**
- * @ngdoc overview
- * @name clifftechApp
- * @description
- * # clifftechApp
- *
- * Main module of the application.
- */
+
 angular
   .module('clifftechApp', [
     'ngAnimate',
